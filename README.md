@@ -119,5 +119,3 @@ crewia-dropshipper/
 `Python` `FastAPI` `MongoDB` `Redis` `Celery` `Playwright` `Pydantic` `asyncio` `Docker` `Pytest` `AI/LLM` `REST API` `Web Scraping` `Microservices`
 
 ---
-
-**Note**: Ce projet démontre la maîtrise d'architectures complexes, de patterns asynchrones avancés, d'intégration d'IA et de scalabilité système.
